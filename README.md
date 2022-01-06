@@ -1,17 +1,17 @@
-## Hey 👋, I'm Muhammad Manamil!
-<a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
+## Hey 👋, I'm Asad Gohar!
+<!-- <a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a> -->
 
 <br>
-Well come to my Github Profile. I am full Stack Website Developer🌐 and Professional Graphic Designer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
+<!-- Wellcome to my Github Profile. I am full Stack Website Developer🌐. depending on what the project requires. I love exploring new tech stack computer and  them to build cool stuffs -->
 
-<br/>
+<!-- <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/techstack.gif" width="360px"/>
 
 ### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
 
-- 🔭 &nbsp; I’m currently working **TechWare House**
+- 🔭 &nbsp; I’m currently working ****
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 📺 &nbsp; It's my [Youtube Channel](https://www.youtube.com/channel/UCJ4s7v-DB4e4RldlLDLAfMQ) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -20,8 +20,8 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 
 <br/>
 <br/>
-<br/>
-
+<br/> -->
+<!-- 
 
 ### 🔨 Languages and Tools:
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/html.png" alt="html" height="42px"/>
@@ -130,7 +130,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
     <td width="300"><a href="#0" target="_blank"></a></td>
   </tr>
   
-</table>
+</table> -->
 
 
 
