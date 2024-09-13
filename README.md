@@ -1,138 +1,27 @@
 ## Hey 👋, I'm Asad Gohar!
 <!-- <a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a> -->
 
-<br>
-<!-- Wellcome to my Github Profile. I am full Stack Website Developer🌐. depending on what the project requires. I love exploring new tech stack computer and  them to build cool stuffs -->
-
-<!-- <br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/techstack.gif" width="360px"/>
-
-### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
-
-- 🔭 &nbsp; I’m currently working ****
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 📺 &nbsp; It's my [Youtube Channel](https://www.youtube.com/channel/UCJ4s7v-DB4e4RldlLDLAfMQ) 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/muahammadmanamil/)
-- 📝 &nbsp; Checkout my [Graphic Work](https://www.facebook.com/graphicdesigningpk)
-
-<br/>
-<br/>
-<br/> -->
-<!-- 
-
-### 🔨 Languages and Tools:
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/html.png" alt="html" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/css.png" alt="css" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/js.png" alt="javascript" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/download.png" alt="bootstrap" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/php-icon.png" alt="Php" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/mysql.png" alt="Mysql" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="Phython" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dj.png" alt="Django" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="C++" height="42px"/>
-
-<br/><br/>
-
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/postree.png" alt="Postree" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/apple-icon.png" alt="IOS APP" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="Android" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/github.png" alt="Github" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dock.png" alt="Dock" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/vscode.png" alt="Vscode" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/photoshop.png" alt="Adobe Photoshop" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/illustrator.png" alt="Adobe Illustrator" height="42px"/>
+## 💫 About Me:
+My journey in software development has led me to create a diverse range of tools that simplify complex tasks. Some of my notable creations include limit calculators, derivative calculators, integral calculators, paraphrasers, summarizers, image-to-text converters, and many more.
 
 
-<br/><br/>
+Currently, I am also working as a Research Assistant at Inje University, where I am deeply involved in Machine Learning (ML) and Deep Learning research. This role has allowed me to explore the cutting-edge of AI technology, contributing to projects that require a deep understanding of neural networks, data analysis, and algorithm development. My work in this area not only complements my professional development but also enhances my ability to integrate AI solutions into real-world applications, further broadening the scope of my expertise.
 
-### 📊 Github Stats
-<a href='https://github.com/manamil-coder'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=manamil-coder&show_icons=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manamil-coder&layout=compact)
-
-</a>
-
-### 🛠️ My Projects
-
-<table width=100%>
-  <tr>
-     <td width="300"><a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a></td>
-     <td width="300"><a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a></td>
-     <td width="300"><a href="http://estate123.com/" target="_blank">Estate123</a></td>
-  </tr>
-  <tr>
-     <td width="300"><a href="http://pizzalife-drabenderhoehe.de/" target="_blank">Pizzalife Drabenderhoehe</a></td>
-     <td width="300"><a href="https://planetants-supporter.com/" target="_blank">Planet Ants Supporter</a></td>
-     <td width="300"><a href="https://rolloffer.com/" target="_blank">Rolloffer</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://theprepsystem.com/" target="_blank">The Prep System</a></td>
-     <td width="300"><a href="http://gameredix.com/" target="_blank">Game Redix</a></td>
-     <td width="300"><a href="http://theglasgowschoolofmusic.co.uk/" target="_blank">The Glasgow School Of Music</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://taxationist.com/" target="_blank">Taxationist</a></td>
-     <td width="300"><a href="http://latoscana-bielstein.de/" target="_blank">Latoscana Bielstein</a></td>
-     <td width="300"><a href="https://closinglawyer.ca/" target="_blank">Closing Lawyer</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="https://speedread2xl.com/" target="_blank">Speed Read 2xl</a></td>
-     <td width="300"><a href="https://estate123.my/" target="_blank">Estate123</a></td>
-     <td width="300"><a href="https://www.corporateurdu.com/" target="_blank">Corporate Urdu</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="https://loveandcork.com/" target="_blank">Love And Cork</a></td>
-     <td width="300"><a href="https://exetermobilemassage.co.uk/" target="_blank">Exeter Mobile Massage</a></td>
-     <td width="300"><a href="https://www.squarenine.pk/" target="_blank">Square Nine</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://voiceofislam.skylite.com/index.php/login" target="_blank">Voice Of Islam</a></td>
-     <td width="300"><a href="https://www.nimsayintl.com/" target="_blank">Maheen Textile</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/bestwebscript/" target="_blank">Best Web Script</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/maision-1608/" target="_blank">Maision-1608</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/cms-landing-page/" target="_blank">CMS Landing Page</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/cycle-rider/" target="_blank">Cycle Rider</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/home-anish/" target="_blank">Home Anish</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/island-diaz/" target="_blank">Island Diaz</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/market-access-pro/" target="_blank">Market Access Pro</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/menu-webapp/" target="_blank">Menu Web App</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/mssons/" target="_blank">MS Sons</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/plant-website" target="_blank">Plant Website</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://207.180.236.232/~skylite/pswla/" target="_blank">PSWLA</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/bank-of-america/" target="_blank">Bank Of America</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/racine/" target="_blank">Racine</a></td>
-  </tr>
-  <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/theme-6/" target="_blank">Theme 6</a></td>
-    <td width="300"><a href="http://207.180.236.232/~shakir/theme-1/" target="_blank">Theme 1</a></td>
-    <td width="300"><a href="http://207.180.236.232/~shakir/theme-2/" target="_blank">Theme 2</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/theme-3/" target="_blank">Theme 3</a></td>
-    <td width="300"><a href="http://207.180.236.232/~shakir/theme-4/" target="_blank">Theme 4</a></td>
-    <td width="300"><a href="http://207.180.236.232/~shakir/theme-5/" target="_blank">Theme 5</a></td>
-  </tr>
-   <tr>
-     <td width="300"><a href="https://knockknockmarketing.co.uk/" target="_blank">Knockknock Marketing</a></td>
-    <td width="300"><a href="https://bmexports.net/" target="_blank">BM Exports</a></td>
-    <td width="300"><a href="#0" target="_blank"></a></td>
-  </tr>
-  
-</table> -->
+I thrive on challenges, and my goal is to continually push the boundaries of what's possible in the world of Python development.
+#pythondeveloper, #pythonfunctionmaping, #webscraping #webautomation
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asad-gohar-197479186) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=asad-gohar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
