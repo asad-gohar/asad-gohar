@@ -2,6 +2,10 @@
 <!-- <a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a> -->
 
 ## 💫 About Me:
+
+I am a Team Leader and Senior Python Developer at Enzipe, where I lead a talented group of Python enthusiasts. I have the privilege of working on exciting projects, including websites like allmath.com, paraphraser.io, rephraser.info, imagetotext.info, summarizer.org, prepostseo.com, and more.
+
+
 My journey in software development has led me to create a diverse range of tools that simplify complex tasks. Some of my notable creations include limit calculators, derivative calculators, integral calculators, paraphrasers, summarizers, image-to-text converters, and many more.
 
 
