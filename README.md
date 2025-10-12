@@ -14,8 +14,8 @@ I'm a Full-Stack Developer and AI/ML Engineer with 5+ years of experience in bui
 - 🏆 KIICE Excellent Paper Award (May 2025) for medical AI research on LLMs
 - 💰 $28,000 USD in scholarships and research grants
 - 📱 Built real-time object detection mobile apps with YOLOv11 and Flutter
-- ⚡ Reduced deployment time by 70% and server costs by $15,000 annually through DevOps optimization
-- 🎯 Maintained 99.7% uptime across 10+ production applications
+- ⚡ Reduced deployment time by 70% and server costs by 50% annually through DevOps optimization
+- 🎯 Maintained 99.7% uptime across 20+ production applications
 
 **Notable Projects:**
 - **Medical AI System**: Engineered clinical QA system with 97% accuracy in medical entity extraction
