@@ -50,9 +50,6 @@ I thrive on solving complex problems and turning cutting-edge AI research into p
 ### Languages & Core:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Web Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -95,21 +92,22 @@ I thrive on solving complex problems and turning cutting-edge AI research into p
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=asad-gohar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=asad-gohar&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asad-gohar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asad-gohar&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asad-gohar&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=asad-gohar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-gohar&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asad-gohar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asad-gohar&icon=0&color=0)](https://visitcount.itsvg.in)
